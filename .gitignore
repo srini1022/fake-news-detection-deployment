@@ -1,0 +1,21 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Training datasets
+Data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
